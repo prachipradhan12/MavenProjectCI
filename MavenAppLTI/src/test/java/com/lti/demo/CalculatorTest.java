@@ -13,7 +13,7 @@ public class CalculatorTest {
 		
 	}
 	@Test
-	public void test2() {
+	public void test6() {
 		int res=new Calculator().sub(20,10);
 		assertEquals(10, res);
 		
